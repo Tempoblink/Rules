@@ -11,5 +11,12 @@ IP-CIDR6,2620:149:a44::/48,no-resolve
 IP-CIDR6,2403:300:a42::/48,no-resolve
 IP-CIDR6,2403:300:a51::/48,no-resolve
 IP-CIDR6,2a01:b740:a42::/48,no-resolve
+# > Wechat
+IP-CIDR,101.32.104.0/21,no-resolve
+IP-CIDR,101.32.128.0/19,no-resolve
+IP-CIDR,101.32.104.0/21,no-resolve
+IP-CIDR,101.32.112.0/20,no-resolve
+IP-CIDR,129.226.96.0/19,no-resolve
+IP-CIDR,129.226.0.0/21,no-resolve
 # > CN
 GEOIP,CN,no-resolve
